@@ -1,4 +1,3 @@
 # Transliteration_Tool-_BENGALI-MANIPURI
 Bengali → Meitei Mayek transliteration  Tool 
 Manipuri (Meeteilon) was written in the Bengali script for many decades, resulting in a large collection of books, documents, and digital texts that still exist only in Bengali. With the revival and official adoption of Meetei Mayek in education, administration, and cultural preservation there is a growing need to convert this legacy content into the native script. Transliteration from Bengali to Meetei Mayek is therefore essential for preserving old materials, supporting young learners who read primarily in Meetei Mayek, and enabling researchers to build accurate NLP datasets and language tools. Since no reliable public transliteration system existed earlier  developing an automated tool is crucial for ensuring smooth script transition improving digital accessibility and promoting the broader use of Meetei Mayek across platforms.
-## BLOCK DAIGRAM OF MODEL 
