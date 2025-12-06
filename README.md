@@ -9,6 +9,6 @@ https://drive.google.com/file/d/1ybJ-JflLo-G9KnkdC7Tlp9YZgSYMcog3/view?usp=drive
 
 ##  Test Data
 
-This test dataset contains Bengali text written at the **character level**, where every character is individually separated (e.g., অ স ি ন া instead of অসিনা).  
+This test dataset contains Bengali text written at the **character level** where every character is individually separated (e.g., অ স ি ন া instead of অসিনা).  
 It is used to evaluate how well the model handles **character-by-character transliteration** from Bengali script to Meitei Mayek.
 
