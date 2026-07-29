@@ -3,9 +3,8 @@ Bengali → Meetei Mayek transliteration  Tool
 Manipuri (Meeteilon) is written in the Bengali script for many decades, resulting in a large collection of books, documents and digital texts that still exist only in Bengali script (Manipuri version). With the revival and official adoption of Meetei Mayek in education, administration and cultural preservation there is a growing need to convert this legacy content into the native script. Transliteration from Bengali to Meetei Mayek is therefore essential for preserving old materials, supporting young learners who read primarily in Meetei Mayek and enabling researchers to build accurate NLP datasets and language tools. Since no reliable public transliteration system existed earlier  developing an automated tool is crucial for ensuring smooth script transition improving digital accessibility and promoting the broader use of Meetei Mayek across platforms.
 ## Download Trained Model
 
-The OpenNMT trained model is too large for GitHub,  
-so you can download it from Google Drive:
-https://drive.google.com/file/d/1ybJ-JflLo-G9KnkdC7Tlp9YZgSYMcog3/view?usp=drive_link
+
+
 
 ##  Test Data
 
