@@ -24,3 +24,4 @@ The performance of the transliteration system was evaluated using standard autom
 Contributions are welcome! If you'd like to improve the transliteration rules, report errors or share additional data, feel free to open an issue or submit a pull request.
 
 For questions, suggestions, or collaboration contact: project@iiitmanipur.ac.in
+
