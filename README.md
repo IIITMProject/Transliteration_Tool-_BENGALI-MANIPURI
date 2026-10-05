@@ -6,10 +6,7 @@ Manipuri (Meeteilon) is written in the Bengali script for many decades, resultin
 
 - **Model:** Neural sequence-to-sequence model trained with [OpenNMT](https://opennmt.net/)
 - **Granularity:** Character-level transliteration
-- **Training data:** Parallel Bengali–Meetei Mayek data generated using rule-based transliteration, following the approach of Moirangthem & Nongmeikapam (2026, *ACM TALLIP*)
-
-
-
+- **Training data:** Parallel Bengali–Meetei Mayek data generated using rule-based transliteration and Human generated data 
 
 ##  Test Data
 
@@ -22,3 +19,8 @@ The performance of the transliteration system was evaluated using standard autom
 
 - Words ending in **"বা"** are not always transliterated correctly
 - Handling of **akar (া) → atap (ꯥ)** can be inconsistent
+## Contributing
+
+Contributions are welcome! If you'd like to improve the transliteration rules, report errors or share additional data, feel free to open an issue or submit a pull request.
+
+For questions, suggestions, or collaboration contact: project@iiitmanipur.ac.in
